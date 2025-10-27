@@ -44,5 +44,6 @@ Consulte `SCREENSHOTS.md` para a lista de capturas e nomes de arquivos padroniza
 O uso de *low-code/no-code* é recomendado pelo material oficial do PIT II, justificando a adoção de WordPress/WooCommerce para acelerar a entrega e focar em UX, testes e validação.
 
 ---
-**Autor:** Rony Abdul
-estudando de Engenharia de Software
+**Autor:** 
+Rony Abdul
+Estudante de Engenharia de Software
