@@ -1,7 +1,7 @@
 # cupcakeonline
 Projeto Integrador Transdisciplinar – Engenharia de Software - PIT II
 
-CupcakeOnline — Sistema de Vendas de Cupcakes Gourmet
+**CupcakeOnline — Sistema de Vendas de Cupcakes Gourmet**
 
 Projeto Integrador Transdisciplinar – Engenharia de Software II (PIT II)
 Universidade Cruzeiro do Sul / 2025
@@ -9,7 +9,7 @@ Universidade Cruzeiro do Sul / 2025
 O CupcakeOnline é um sistema de loja virtual fictícia, desenvolvido com WordPress + WooCommerce, aplicando o conceito de desenvolvimento low-code/no-code conforme orientações do material oficial do PIT II.
 O objetivo é demonstrar a implementação completa de um fluxo de e-commerce — da vitrine ao pedido — validando requisitos, modelagens e histórias de usuário definidas no PIT I.
 
-Arquitetura
+**Arquitetura**
 
 O sistema adota a estrutura MVC (Model-View-Controller) nativa do WordPress:
 
@@ -19,7 +19,7 @@ View: interface construída via editor de blocos (Gutenberg).
 
 Controller: lógica de fluxo e automações do WooCommerce.
 
-Funcionalidades Principais
+**Funcionalidades Principais**
 
 Cadastro e login de usuários (HU001–HU002)
 
@@ -29,12 +29,12 @@ Carrinho e checkout funcional com pagamento fictício (HU005–HU011)
 
 Acompanhamento de pedidos e painel administrativo (HU012–HU015)
 
-Observação
+**Observação**
 
 Projeto acadêmico com pagamentos simulados (modo teste).
 Nenhuma transação real é executada.
 
-Tecnologias
+**Tecnologias**
 
 WordPress (em nuvem)
 
@@ -44,7 +44,7 @@ PHP / MySQL
 
 HTML5 / CSS3 / Gutenberg Blocks
 
-Evidências e Relatórios
+**Evidências e Relatórios**
 
 Capturas e documentação disponíveis nas pastas:
 
@@ -52,7 +52,7 @@ Capturas e documentação disponíveis nas pastas:
 
 /feedbacks/ — formulário e registros dos 5 testadores (Situação-Problema 3)
 
-Autor
+**Autor**
 
 Rony Abdul
 Estudante de Engenharia de Software
