@@ -46,4 +46,4 @@ O uso de *low-code/no-code* é recomendado pelo material oficial do PIT II, just
 ---
 **Autor:** 
 Rony Abdul
-Estudante de Engenharia de Software
+- Estudante de Engenharia de Software
